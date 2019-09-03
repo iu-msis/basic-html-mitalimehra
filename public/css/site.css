@@ -1,5 +1,5 @@
 body{
-  background-color: rgb(72, 56, 74);
+  background-color: rgb(38, 19, 30);
   color:white;
 }
 
@@ -17,7 +17,7 @@ img{
 display: block;
 margin-left: auto;
 margin-right: auto;
-width: 150px;
+width: 100px;
 padding-bottom: 5px;
 }
 
@@ -34,6 +34,8 @@ a{
 #tableintro{
   padding: 5px;
   margin: 5px;
+  margin-top: 30px;
+  padding-bottom: 30px;
 }
 
 .table{
@@ -49,7 +51,7 @@ a{
 
 .userIntro{
 
-  margin-top: 80px;
+  margin-top: 120px;
   padding-bottom: 40px;
   padding-top: 40px;
 }
@@ -69,4 +71,49 @@ a{
 
 .source{
   text-align: center;
+  font-weight: normal;
+  font-size: 10px;
+
+}
+
+.bookworm{
+  background-color: rgb(38, 19, 30);
+}
+
+#communityReading{
+  width: 420px;
+  border: 1px solid #ddd;
+  border-radius: 2px;
+  padding: 7px;
+}
+
+#email{
+  color: rgb(215, 217, 196);
+  font-weight: normal;
+  text-decoration: underline;
+  margin-top: 20px;
+}
+
+.infoDetails{
+  margin-top: 10px;
+
+}
+.info{
+  text-align: center;
+  padding: 0px;
+}
+
+.emailContainer{
+
+    margin-top: 10px;
+}
+
+.bookWormImg{
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 2px;
+}
+
+.favForm{
+  font-weight: bold;
 }
