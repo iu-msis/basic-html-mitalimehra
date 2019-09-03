@@ -1,3 +1,72 @@
-#footer{
-  color:rgb(142, 154, 168)
+body{
+  background-color: rgb(72, 56, 74);
+  color:white;
+}
+
+.form-group{
+  padding: 5px;
+  margin: 5px;
+}
+
+.table{
+  padding: 5px;
+  margin: 5px;
+}
+
+img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 150px;
+padding-bottom: 5px;
+}
+
+.bookworm{
+  display: block;
+  text-align: center;
+  }
+
+a{
+  color: white;
+  font-weight: bold;
+}
+
+#tableintro{
+  padding: 5px;
+  margin: 5px;
+}
+
+.table{
+  padding: 5px;
+  margin: 5px;
+}
+
+#profilePicture{
+  border-radius: 50%;
+  width: 200px;
+  padding-top: 20px;
+}
+
+.userIntro{
+
+  margin-top: 80px;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+
+#welcomeMessage{
+  text-align: center;
+  font-size: x-large;
+}
+
+.welcomeHome{
+  margin-top: 80px;
+  padding-bottom: 40px;
+  padding-top: 40px;
+
+
+}
+
+.source{
+  text-align: center;
 }
